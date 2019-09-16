@@ -1,0 +1,13 @@
+{
+	"font_size": 14,
+	"ignored_packages":
+	[
+	],
+	"rulers":
+	[
+		80,
+		90
+	],
+	"theme": "Adaptive.sublime-theme"
+}
+
